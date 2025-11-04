@@ -3,7 +3,7 @@
 body {
     background-size: cover;
     background-position: center;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)), url("https://image.api.playstation.com/vulcan/ap/rnd/202401/2120/ec8c7c0861522b7de195ba75bb40dccf00df443fc5872ebe.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)), url("Bloons-Site-Conexao/background.webp");
     backdrop-filter: blur(3px);
     background-repeat: no-repeat;
     background-attachment: fixed;
