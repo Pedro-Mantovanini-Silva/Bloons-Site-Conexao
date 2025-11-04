@@ -3,7 +3,7 @@
 body {
     background-size: cover;
     background-position: center;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)), url("Bloons-Site-Conexao/background.webp");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)), url("background.webp");
     backdrop-filter: blur(3px);
     background-repeat: no-repeat;
     background-attachment: fixed;
